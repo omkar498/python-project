@@ -82,8 +82,8 @@ volume_label.grid(sticky= "n",row=5)
 
 
 Button(master, text="select song",font=("caliber",12),command=play_song).grid(row=2,sticky="n")
-Button(master, text="pause",font=("caliber",12),command=pause).grid(row=3,sticky="e")
-Button(master, text="resume",font=("caliber",12),command=resume).grid(row=3,sticky="w")
-Button(master, text="-",font=("caliber",12),width=5,command=reduce_volume).grid(row=5,sticky="w")
-Button(master, text="+",font=("caliber",12),width=5,command=increase_volume).grid(row=5,sticky="e")
+Button(master, text="pause",font=("caliber",12),command=pause).grid(row=5,sticky="e")
+Button(master, text="resume",font=("caliber",12),command=resume).grid(row=5,sticky="w")
+Button(master, text="-",font=("caliber",12),width=5,command=reduce_volume).grid(row=3,sticky="w")
+Button(master, text="+",font=("caliber",12),width=5,command=increase_volume).grid(row=3,sticky="e")
 master.mainloop() 
