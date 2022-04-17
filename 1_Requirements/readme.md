@@ -1,3 +1,17 @@
+# INTRODUCTION
+* This project is about the MUSIC PLAYER APP . 
+* This is an app which which provides songs to listen.
+* APP is based on core java and  OOPS concept.
+* This app provides different albums for you,  which is language(Hindi, English) based so,
+  that user can comfortabily listen to his choise of song.
+
+# INDENTIFYING FEATURES
+* enter the music player app 
+* select song from folder
+* resume the current playing song
+* pause the current playing song
+* can increase and decrease volume(+,-)
+
 # Low level requirements
 | ID | DESCRIPTION | STATUS |
 | -- |------------ | -------|
