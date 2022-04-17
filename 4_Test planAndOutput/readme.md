@@ -8,9 +8,8 @@
 |4| increrase song | PASSED✅   |
 |5| resume song| PASSED✅ |
 
+![op gui](https://user-images.githubusercontent.com/63449223/163721205-3a718b28-5e8a-4217-895f-934db950095b.png)
 
 
-![code output](https://user-images.githubusercontent.com/63449223/163721047-b7ec2e9c-ba77-422d-9466-e9cf9b63a367.png)
 
-
-![music player app test plan output](https://user-images.githubusercontent.com/63449223/163721081-1c76058f-4825-4b1f-a79d-5731a52af5a3.png)
+![op code ](https://user-images.githubusercontent.com/63449223/163721383-f28fdb2a-8654-4aa3-82fd-f00c98eeb35b.png)
