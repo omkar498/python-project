@@ -35,3 +35,10 @@
 |L6|user can pause the song|implemented|
 |L7|change volume to +,-|implemented|
 
+
+
+## Implemented music player app using GUI .
+## Used tkinter , label, buttons, filedialog.
+## Also used pygame for the implentation
+
+
