@@ -20,7 +20,7 @@
 |H1| select song from folder     | implemented  |
 |H2| use exception handing     | implemented  |
 |H3| use GUI (tkinter) to display interface| implemented  |
-|H4| user can change the language in which | implemented   |
+|H4| user can change the language (Hindi,English,Marathi) | implemented   |
 |H5| change volume| implemented|
 
 
